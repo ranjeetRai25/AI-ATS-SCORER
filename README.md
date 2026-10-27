@@ -1,4 +1,4 @@
-# ATS Resume Scorer
+# AI ATS Resume Scorer
 
 Application that scores how well a resume matches a job description and returns actionable feedback. 
 Built with FastAPI + Streamlit, using spaCy and Sentence Transformers for NLP and the Groq API for LLM-generated suggestions.
